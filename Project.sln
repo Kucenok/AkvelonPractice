@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "Project\Project.csproj", "{57CB43FE-5AF1-4C0A-80A7-EEE93CF97C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{BFED9550-9F28-410E-BA31-64FD5580E561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection", "Intersection\Intersection.csproj", "{299C5E03-1DC8-4947-98B3-8139EDD84CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj", "{626EE71E-634B-4285-AA09-6A6C2FB78C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parentheses", "Parentheses\Parentheses.csproj", "{D3BC5533-DB68-4437-AED3-5ECA15FE5203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CB43FE-5AF1-4C0A-80A7-EEE93CF97C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CB43FE-5AF1-4C0A-80A7-EEE93CF97C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CB43FE-5AF1-4C0A-80A7-EEE93CF97C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CB43FE-5AF1-4C0A-80A7-EEE93CF97C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFED9550-9F28-410E-BA31-64FD5580E561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFED9550-9F28-410E-BA31-64FD5580E561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFED9550-9F28-410E-BA31-64FD5580E561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFED9550-9F28-410E-BA31-64FD5580E561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299C5E03-1DC8-4947-98B3-8139EDD84CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299C5E03-1DC8-4947-98B3-8139EDD84CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299C5E03-1DC8-4947-98B3-8139EDD84CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299C5E03-1DC8-4947-98B3-8139EDD84CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626EE71E-634B-4285-AA09-6A6C2FB78C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626EE71E-634B-4285-AA09-6A6C2FB78C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626EE71E-634B-4285-AA09-6A6C2FB78C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626EE71E-634B-4285-AA09-6A6C2FB78C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BC5533-DB68-4437-AED3-5ECA15FE5203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BC5533-DB68-4437-AED3-5ECA15FE5203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BC5533-DB68-4437-AED3-5ECA15FE5203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BC5533-DB68-4437-AED3-5ECA15FE5203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
